@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning dont know specifically
 - 💬 Ask me about sports
-- 📫 How to reach me: linkedin.com/ramantayal12
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both 
