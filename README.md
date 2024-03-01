@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both 
 
-Tech Stack i think I know : 
+Tech Stack I beleive I am good at 😄 : 
 
 - Languages : Java, C++, Python
 - Develeopment Frameworks : Spring Boot
