@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both
 
-  <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramantayal12&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Raman's github stats"/>
-</p>
-
 Tech Stack I beleive I am good at 😄 : 
 
 - Languages : Java, C++, Python
