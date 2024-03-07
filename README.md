@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both
+- in the free time you can find me playing badminton or competing on kaggle.
 
 Tech Stack I beleive I am good at 😄 : 
 
@@ -19,5 +20,3 @@ Tech Stack I beleive I am good at 😄 :
 - Machine Learning FrameWorks : keras, tensorflow
 - Databses : mongoDb, Redis, Mysql, MariaDb, Cassandra
 - Tools : kafka
-
-- in the free time you can find me playing badminton or competing on kaggle.
