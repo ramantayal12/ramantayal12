@@ -6,14 +6,14 @@
 Some Basics : 
 
 - 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning dont know specifically
+- 🌱 I’m currently learning engineering
 - 💬 Ask me about sports
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both
 - in the free time you can find me playing badminton or competing on kaggle.
 
-Tech Stack I beleive I am good at 😄 : 
+Tech Stack I am really good at 😄 : 
 
 - Languages : Java, C++, Python
 - Develeopment Frameworks : Spring Boot
