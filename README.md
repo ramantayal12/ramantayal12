@@ -9,7 +9,6 @@ Some Basics :
 - 🌱 I’m currently learning engineering
 - 💬 Ask me about sports
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: rishu
 - ⚡ Fun fact: i love gojo and sukuna both
 - in the free time you can find me playing badminton or competing on kaggle.
 
