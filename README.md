@@ -6,7 +6,7 @@
 Some Basics : 
 
 - 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently learning golang
 - 💬 Ask me about sports
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: i love gojo and sukuna both
