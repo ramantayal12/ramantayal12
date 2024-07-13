@@ -5,7 +5,7 @@
 -->
 Some Basics : 
 
-- 🔭 I’m currently working on Java.
+- 🔭 I’m currently working on scheduler.
 - 🌱 I’m currently learning golang
 - 💬 Ask me about sports
 - 📫 How to reach me: Linkedin
