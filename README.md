@@ -9,13 +9,12 @@ Some Basics :
 - 🌱 I’m currently learning golang
 - 💬 Ask me about sports
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: i love gojo and sukuna both
-- in the free time you can find me playing badminton or competing on kaggle.
+- in the free time you can find me playing badminton
 
 Tech Stack I am really good at 😄 : 
 
 - Languages : Java, C++, Python
 - Develeopment Frameworks : Spring Boot
 - Machine Learning FrameWorks : keras, tensorflow
-- Databses : mongoDb, Redis, Mysql, MariaDb, Cassandra
+- Databses : mongoDb, redis, mysql, mariaDb, cassandra
 - Tools : kafka
