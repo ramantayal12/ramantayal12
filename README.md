@@ -3,15 +3,15 @@
 <!--
 **ramantayal12/ramantayal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Some Basics : 
+A bit about me:
 
-- 🔭 I’m currently working on scheduler.
-- 🌱 I’m currently learning golang
+- 🔭 Currently working on building a robust scheduler.
+- 🌱 Deepening my knowledge in multithreading concepts.
 - 💬 Ask me about sports
-- 📫 How to reach me: Linkedin
-- in the free time you can find me playing badminton
+- 📫 Feel free to connect with me on LinkedIn(linkedin.com/in/ramantayal12).
+- 🏸 In my free time, you'll often find me playing badminton or discussing sports.
 
-Tech Stack I am really good at 😄 : 
+Tech Stack I'm passionate about: 
 
 - Languages : Java, C++, Python
 - Develeopment Frameworks : Spring Boot
