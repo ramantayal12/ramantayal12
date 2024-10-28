@@ -5,7 +5,6 @@
 -->
 A bit about me:
 
-- 🔭 Currently working on building a robust scheduler.
 - 🌱 Deepening my knowledge in multithreading concepts.
 - 📫 Feel free to connect with me on LinkedIn(linkedin.com/in/ramantayal12).
 - 🏸 In my free time, you'll often find me playing badminton or discussing sports.
