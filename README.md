@@ -14,5 +14,5 @@ Tech Stack I'm passionate about:
 - Languages : Java, C++, Python
 - Develeopment Frameworks : Spring Boot
 - Machine Learning FrameWorks : keras, tensorflow
-- Databses : mongoDb, redis, mysql, mariaDb, cassandra
+- Databses : redis, mysql, hbase
 - Tools : kafka
