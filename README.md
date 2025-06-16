@@ -7,7 +7,7 @@ A bit about me:
 
 - 🌱 Deepening my knowledge in multithreading concepts.
 - 📫 Feel free to connect with me on LinkedIn(linkedin.com/in/ramantayal12).
-- 🏸 In my free time, you'll often find me playing badminton or discussing sports.
+- 🏸 In my free time, you'll often find me playing badminton
 
 Tech Stack I'm passionate about: 
 
